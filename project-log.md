@@ -8,15 +8,24 @@
 - notes go here
 
 ## pitch
-- My research topic is:
-- My research question is:
-- I expect to work with the following *materials*:
+- My research topic is: 
+  * Gender description in literature
+- My research question is: 
+  * How has the description of male characters written by male authors evolved?
+- I expect to work with the following *materials*: 
+  * I plan to reference a series of studies which have collected data sets which things such as the frequency of adjectives as well as the gender of the characters which the adjective modifies. I will reference both the study and the data sets which informed the studies. To present the data and findings, I will use _TimelineJS_ to create an interactive timeline.
 - I plan to *process* these materials by:
+  * I will process the materials by reading through the study findings and analyzing the data sets which the teams compiled. Key points from the studied which pertain to my research question will be noted, as will relevant information within the data sets.
 - I plan to *present* these materials by:
+  * Compiling the data into an interactive timeline to present the data and findings in an organized and visually appealing way.
 - My final submission will take this form: 
+  * A _GitHub Repository_ which will include the interactive timeline built in _TimelineJS_.
 - This project is intended to engage these audiences and communities:
+  * Those interested with the intersection of gender and literature, primarily gender studies scholars.
 - I bring the following existing knowledge and/or skills to the project: 
+  * As an advertising major, I have experience presenting information in an appealing and comprehensive way. Additonally, I have been an avid reader for most of my life, so I have a knowledge of how to analyze novels and literature.
 - In order to do this project, I need to learn: 
+  * TimelineJS, how to incorporate outside materials into GitHub, and higher level data analysis.
 
 ---
 # week 4 
