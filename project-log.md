@@ -30,7 +30,9 @@
 ---
 # week 4 
 ## notes
-- notes go here
+- focus on latter timeline (1950s-2000)
+- possibly curate own data set; use excerpts from books in NYT best sellers list
+- Voyant tools to analyze texts and extract adjectives
 
 ## search log
 - search log goes here
