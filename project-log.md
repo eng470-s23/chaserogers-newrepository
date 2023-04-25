@@ -31,7 +31,7 @@
 # week 4 
 ## notes
 - focus on latter timeline (1950s-2000)
-- possibly curate own data set; use excerpts from books in NYT best sellers list
+- curate own data set; use excerpts from books in NYT best sellers list - approx. 500 word passages
 - Voyant tools to analyze texts and extract adjectives
 
 ## search log
