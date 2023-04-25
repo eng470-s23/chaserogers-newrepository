@@ -33,6 +33,7 @@
 - focus on latter timeline (1950s-2000)
 - curate own data set; use excerpts from books in NYT best sellers list - approx. 500 word passages
 - Voyant tools to analyze texts and extract adjectives
+- look into sources on toxic masculinity as well
 
 ## search log
 - search log goes here
