@@ -44,8 +44,8 @@
 - *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
-1. source #1
-2. source #2
+1. *source #1:* my primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2000. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data. The books I will be using are:
+2. *source #2:* Underwood, T., Bamman, D., &amp; Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019 
 3. source #3
 4. source #4
 5. source #5
