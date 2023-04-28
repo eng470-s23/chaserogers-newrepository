@@ -45,19 +45,26 @@
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. **source #1:** 
-    * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2000. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data.
+    * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2020. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data.
+      * This data set will be my primary reference point for the project. It will include 5 fiction novels pulled from the NYT bestsellers list, with the chosen books ranging from 1950-2020.
 2. **source #2:** 
     * Underwood, T., Bamman, D., &amp; Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019 
+      * This article analyzes the importance and significance of gender in fictional literature from the end of the 18th century to the beginning of the 21st. While the article looks at all gender distinctions, not just masculinity, it gives strong inside into the ways which gender distinctions in fiction writing have changed through modern literature. I plan to use this source as a reference point for my own findings, comparing trends which I see in my own data set, to the ones laid out within this article.
 3. **source #3:**
     * Kraicer, E., &amp; Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032 
+      * This articles examines the underrepresentation of women, but also covers what they find to be an emphasis on heteronormativity, both in female and male characters. The article explains that while heteronormativity often refers to romantic relationships, it also refers to and informs the roles and behaviors of main characters within literature. I will use the findings of this article to inform my research in my own corpus.
 4. **source #4:**
     * Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
+      * This article reports the findings of two experiments which tested the impact of fiction literature on children's perceptions of gender roles. I'll use the=is article and the corresponding experiments to give context to the research I do, framing the findings and purpose of the project through an lense which analyzes the influence that writing characters can have on developing minds.
 5. **source #5:**
     * Yaşayan, V. (2021). Manifestations of Toxic Masculinity in Cormac McCarthy’s Blood Meridian or the Evening Redness in the West. American Studies in Scandinavia, 53(2), 69–99. https://doi.org/10.22439/asca.v53i2.6392
+      * This article examines the writing of Cormac McCarthy in his book *Blood Meridian* and explains how his use of toxic masculinity tropes for his male charachters is used as a critique of the hegemonic view on masculinity, as well as a sort of prediction for the direction awareness towards how masculinity is perceived would take. I hope to use this as a reference for how writing toxic masculinity can be used as a means to critique it.
 6. **source #6:**
     * Williams, A. (2022, July 3). NY_TIMES_FICTION_BEST_SELLERS_1931-2022-wikipedia. Kaggle. Retrieved April 28, 2023, from https://www.kaggle.com/datasets/aaddrick/ny-times-fiction-best-sellers-19312022wikipedia 
+      * This is the data set which I will pull my NYT bestsellers from to build my corpus. 
 7. **source #7:**
     * Sen, E., &amp; Karagul, S. (2021). A study of secondary school students’ perceptions of fictional characters. International Journal of Educational Methodology, 7(3), 433–446. https://doi.org/10.12973/ijem.7.3.433 
+      * Much like the Kneeskern and Reeder article, this reports findings of the impact which fictional characters can have in the development of a child's personality, gender perception, and identity.
 
 ## reading plan
 - reading plan goes here
