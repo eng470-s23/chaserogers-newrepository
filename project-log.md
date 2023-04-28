@@ -50,7 +50,8 @@
  * Underwood, T., Bamman, D., &amp; Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019 
 3. **source #3:**
  * Kraicer, E., &amp; Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032 
-4. source #4
+4. **source #4:**
+ * Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
 5. source #5
 6. source #6
 7. source #7
