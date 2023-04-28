@@ -45,7 +45,7 @@
 - *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. **source #1:** 
-    * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2000. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data. The books I will be using are:
+    * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2000. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data.
 2. **source #2:** 
     * Underwood, T., Bamman, D., &amp; Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019 
 3. **source #3:**
@@ -54,8 +54,10 @@
     * Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
 5. **source #5:**
     * Yaşayan, V. (2021). Manifestations of Toxic Masculinity in Cormac McCarthy’s Blood Meridian or the Evening Redness in the West. American Studies in Scandinavia, 53(2), 69–99. https://doi.org/10.22439/asca.v53i2.6392
-6. source #6
-7. source #7
+6. **source #6:**
+    * Williams, A. (2022, July 3). NY_TIMES_FICTION_BEST_SELLERS_1931-2022-wikipedia. Kaggle. Retrieved April 28, 2023, from https://www.kaggle.com/datasets/aaddrick/ny-times-fiction-best-sellers-19312022wikipedia 
+7. **source #7:**
+    * Sen, E., &amp; Karagul, S. (2021). A study of secondary school students’ perceptions of fictional characters. International Journal of Educational Methodology, 7(3), 433–446. https://doi.org/10.12973/ijem.7.3.433 
 
 ## reading plan
 - reading plan goes here
