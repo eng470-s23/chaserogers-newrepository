@@ -52,7 +52,8 @@
     * Kraicer, E., &amp; Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032 
 4. **source #4:**
     * Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
-5. source #5
+5. **source #5:**
+    * Yaşayan, V. (2021). Manifestations of Toxic Masculinity in Cormac McCarthy’s Blood Meridian or the Evening Redness in the West. American Studies in Scandinavia, 53(2), 69–99. https://doi.org/10.22439/asca.v53i2.6392
 6. source #6
 7. source #7
 
