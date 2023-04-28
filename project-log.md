@@ -48,7 +48,8 @@
  * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2000. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data. The books I will be using are:
 2. **source #2:** 
  * Underwood, T., Bamman, D., &amp; Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019 
-3. source #3
+3. **source #3:**
+ * Kraicer, E., &amp; Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032 
 4. source #4
 5. source #5
 6. source #6
