@@ -36,7 +36,12 @@
 - look into sources on toxic masculinity as well
 
 ## search log
-- search log goes here
+- Source 6 by recommendation from Dr. Burkert on r/Dataset subreddit
+- Sources 2,4, 5, and 7 found using Google Scholar
+   * Search terms used: "gender" "fiction" "literature" 
+- Source 3 found on UO Library search
+   * Search terms used: "gender" "fiction" "literature" "masculinity"
+- All sources found on first search on respective databases
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -67,7 +72,11 @@
       * Much like the Kneeskern and Reeder article, this reports findings of the impact which fictional characters can have in the development of a child's personality, gender perception, and identity.
 
 ## reading plan
-- reading plan goes here
+- Monday, 5/1: read and annotate sources 2 and 3 (2 hours)
+- Tuesday, 5/2: read and annotate sources 4 and 6, use source 6 to inform my corpus (2 hours)
+- Wednesday, 5/3: finalize book selections for corpus (1 hour)
+- Thursday, 5/4: read and annotate sources 5 and 7 (2 hours)
+- Friday, 5/5: review annotations, re-read key passages from all articles, complete first 3 annotated bibliography entries (2.5 hours)
 
 ---
 # week 5
