@@ -37,7 +37,7 @@
 
 ## search log
 - Source 6 by recommendation from Dr. Burkert on r/Dataset subreddit
-- Sources 2,4, 5, and 7 found using Google Scholar
+- Sources 2, 4, 5, and 7 found using Google Scholar
    * Search terms used: "gender" "fiction" "literature" 
 - Source 3 found on UO Library search
    * Search terms used: "gender" "fiction" "literature" "masculinity"
