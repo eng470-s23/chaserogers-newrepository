@@ -92,7 +92,8 @@ How did the description of male characters written by male authors evolved from 
 - *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019
+- citation: Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). [The transformation of gender in English-language fiction](https://doi.org/10.22148/16.019)
+
 
 - summary: In this article, Underwood, Bamman, and Lee present findings from data analysis on how the significance of gender as a key charasteristic within characters in fiction novels has changed and evolved from the end of the eighteenth century to the early 2000s. The project is built off of a data analysis of literary works which have been collected from the HaithiTrust Digital Library, as well as a collection built by the Chicago Text Lab. The authors used BookNLP to extract the data needed for the project: adjectives, character identification, and the assignment of adjectives and descriptors to specific characters. The authors explain that BookNLP extracted names of characters and clusters them with different forms of that name (the example given is that "Elizabeth" is combined with "Elizabeth Bennett") and then assigns a gender to the characters with 91.3% - 94.7% accuracy. Descriptors for the characters are then pulled and associated with a character name, and then used for analysis. 
 
