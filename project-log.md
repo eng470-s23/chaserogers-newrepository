@@ -87,9 +87,6 @@
 How did the description of male characters written by male authors evolved from 1950-2000? 
 
 ## annotated bibliography
-*Each annotation should include:*
-- *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
-- *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
 - citation: Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). [The transformation of gender in English-language fiction](https://doi.org/10.22148/16.019)
@@ -109,8 +106,9 @@ How did the description of male characters written by male authors evolved from 
 ### source 3 annotation
 - citation: Kraicer, E., & Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). [Social characters: The hierarchy of gender in contemporary English-language fiction](https://doi.org/10.22148/16.032)
 
-- summary: 
-- potential use for project: 
+- summary: In this article, Kraicer and Piper examine the underrepresentation of women within fiction, but also cover what they find to be an emphasis on heteronormativity, both in female and male characters. The article explains that while heteronormativity often refers to romantic relationships, it also refers to and informs the roles and behaviors of main characters within literature, stating "we use it here to indicate the extent to which mixed-gender pairs, whether sexual or platonic, significantly dominate the contemporary novel’s social structure." Additionally, Kraicer and Piper find that between female and male authors, female authors write with less heteronormative descriptions and pairings.
+
+- potential use for project: While this article primarily focuses on a comparison between female and male authors and characters, it goes into detail about the prevelance of heteronormative writing and how male authors do so at a higher rate. This is along the lines of something which I predict I will find in my own research, and will use Kraicer and Piper's findings, regarding male characters and authors, to inform my research and project.
 
 ---
 # week 6
