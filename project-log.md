@@ -100,14 +100,15 @@ How did the description of male characters written by male authors evolved from 
 - potential use for project: This article and project as a whole can be used as a way to inform my methodology for collecting the data I need to create my data set. Much of the article goes into the methods and tools used to extract the data for the project. The data which the authors collected is almost exactly the type of data which I will need to collect: genders of characters and the descriptors used for specific characters. While my analysis of the data and purpose of my project will be quite different, the methodology behind the data collection and tools used can inform my procedure for creating my own data set.
 
 ### source 2 annotation
-- citation: Williams, A. (2022, July 3). NY_TIMES_FICTION_BEST_SELLERS_1931-2022-wikipedia. Kaggle. Retrieved April 28, 2023, from [NYT Fiction Best Sellers 1931-2022](https://www.kaggle.com/datasets/aaddrick/ny-times-fiction-best-sellers-19312022wikipedia)
+- citation: Williams, A. (2022, July 3). NY_TIMES_FICTION_BEST_SELLERS_1931-2022-wikipedia. Kaggle. Retrieved April 28, 2023, [NYT Fiction Best Sellers 1931-2022](https://www.kaggle.com/datasets/aaddrick/ny-times-fiction-best-sellers-19312022wikipedia)
 
 - summary: This data set, manually collected by author Aaddrick Williams, presents a comprihensive list of the the New York Times best sellers for fiction novels from 1931-2022. The set includes every fiction novel for each year within the time frame which has been noted as a "best seller," as well as the book title, author's name, and the number of months and days whcih the novel spent as a "best seller." Willias explains that the data was collected from various sources, using Wikipedia as a directory to the sources used.
 
 - potential use for project: This data set will be used as my primary reference to pull the novels which I will use to build my corpus. As I plan to only inlcude NYT best sellers by male authors, and within the specific time frame of 1950-2000, I will manually go through the list to make my selection of five novels. As the set also includes the number of months and days spent as a best seller, I will pick one novel by a male author with the longest amount of time spent on the best seller list.
 
 ### source 3 annotation
-- citation: 
+- citation: Kraicer, E., & Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). [Social characters: The hierarchy of gender in contemporary English-language fiction](https://doi.org/10.22148/16.032)
+
 - summary: 
 - potential use for project: 
 
