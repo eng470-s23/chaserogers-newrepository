@@ -143,12 +143,14 @@ How did the description of male characters written by male authors evolved from 
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- My project deals specificially with how male characters are presented and described in fictional literature by male authors. The aim of the project is to see if the work which has been made to dismantle hegemonic toxic masculinity, especially within platonic male-to-male relationships, has been reflected and represented within fictional writing. Toxic masculinity is heavily reinforced by other men, and relies heavily on how other men perceive one another. A large contributor to this is how men are represented in media, as many famous male characters have and continue to exude tradional qualities which have historically been identified as those associated with the "ideal man," which we obviously know to be a dangerous, oppressive, and toxic archetype. The layer of focusing on how male authors, specifically, write and dscribe male characters is meant to focus the project on the male-to-male aspect and representation of the work which needs to be, and hopefully has been, done. The goal of the project is to see whether or not there is a pitfall in the representation of the progress towards more healthy views of and relationships with other men, from men.
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- Voyant: Voyant will be used as the first step in the process to analyze the text of my corpus. This will give me a broad overview of what is included in my chosen novels, such as the most frequent words, word pairings, and trends. Voyant is ideal for this task, as it is easy to use, open-source, and allows for broad analysis of text, as well as supplying useful visuals and graphics, which could potentially be used to communicate findings.
+- BookNLP: BookNLP will be where the deep analysis starts. This tool groups character names together, allowing for different versions of a name for a character to be associated with the same characters, as well as assigning gender and descriptors to characters as well. BookNLP does the majority of the work which needs to be done for this projects, as its tools are engineered for analysis like mine.
+- Squarespace: Squarespace will be where the webpage which presents my findings will be built and housed. Squarespace is ideal, as I will be communicating to a non-academic audience, and the sites which can be built in Squarespace are accessible and allow for streamlined UX. 
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
