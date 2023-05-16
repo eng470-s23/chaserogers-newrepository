@@ -155,7 +155,7 @@ How did the description of male characters written by male authors evolved from 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
+- My primary audience are fiction lovers, mainly those who are also interested in gender studies. Additionally, a secondary audience would be male authors whose works focus on fiction. Because both of these groups are outside of academia, publishing the project in an easy to navigate and visually interesting way would be the best approach.
 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
