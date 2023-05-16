@@ -118,9 +118,9 @@ How did the description of male characters written by male authors evolved from 
 ## annotated bibliography, continued
 
 ### source 4 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: My own corpus
+- summary: My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2020. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the necessary data. It will consist of 5 books, 1 for each decade from 1950-2000, written by male authors and selected at random by feeding the available options into a random selection tool. If the tool chooses a book written by a non-male author, the choices will be ran again until the first male author is selected. The book choices will be pulled using the Williams dataset of the NYT fiction best sellers. If a chosen book does not have a .txt file available online, I will purchase a digital verson of the book, and then convert the text into a .txt file using the Zamzar file converter.
+- potential use for project: This data set will be the primary source of my project. The texts will then be fed through Voyant for analysis. The analysis will focus the descriptions of the primary male character in each novel. Initially, I planned to use BookNLP to analyze the description of all male charachters in each novel, however, as I have explored BookNLP further, I have found that the level of coding knowledge needed to accomplish this task is too far above my coding and Python capabilities. If I had more time, I would learn how to properly use BookNLP for this task. However, given the timeline of this project, I will be using Voyant, specifically the Cirrus, Terms, and Links tools.
 
 ### source 5 annotation
 - citation: 
