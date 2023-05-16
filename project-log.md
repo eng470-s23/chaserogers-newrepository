@@ -123,19 +123,19 @@ How did the description of male characters written by male authors evolved from 
 - potential use for project: This data set will be the primary source of my project. The texts will then be fed through Voyant for analysis. The analysis will focus the descriptions of the primary male character in each novel. Initially, I planned to use BookNLP to analyze the description of all male charachters in each novel, however, as I have explored BookNLP further, I have found that the level of coding knowledge needed to accomplish this task is too far above my coding and Python capabilities. If I had more time, I would learn how to properly use BookNLP for this task. However, given the timeline of this project, I will be using Voyant, specifically the Cirrus, Terms, and Links tools.
 
 ### source 5 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
+- summary: In this article, Kneeskern and Reeder present two experiments which analyze the ways in which gender stereotypes influence children's support of traditonal gender roles. They explain that traditional stereotypical male characters are far over represented within literature, and that this overrepresentation sways and informs the child's view of gender roles. The article goes on to explain that the experiments found that exposure to counter-traditonal male characters lowered the children's endorsement of traditional stereotypes. exemplifying the impact which the presentation of characters in literature has on children's own perspectives of gender.
+- potential use for project: This article helped to solidify this importance of analyzing the ways that character desprictions pertaining to gender, as it has a real effect on how gender roles are perceived. This is nothing new, as it is well known that how gender is presented in media is crucial to moving past traditional gender roles. However, the study frames this within in the context of literature, and specifically the way that gender is addressed and presented in fiction. The article has been more of an informer of mindset and context, rather than methodology or information.
 
 ### source 6 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Yaşayan, V. (2021). Manifestations of Toxic Masculinity in Cormac McCarthy’s Blood Meridian or the Evening Redness in the West. American Studies in Scandinavia, 53(2), 69–99. https://doi.org/10.22439/asca.v53i2.6392
+- summary: This article analyzes the ways in which toxic masculinity is portrayed in Cormac McCarthy's novel Blood Meridian and its main character. Yaşayan poses that McCarthy's use of traditonal masculine stereotypes within the main character is an exploration of the ways that the pursuit to fill those ideals actually brings destruction to one's self and character, and says that McCarthy's self-aware implementation of this was ahead of its time in addressing the problem. He goes on to say that McCarthy uses the "toxic cowboy" archetype as a way to critique toxic masculinity and explore "alternative" forms of masculinity.
+- potential use for project: This article framed ways in which toxic masculinity descriptors can actually be used as a critique of the stereotypes themselves. It made me aware that simply doing distant readings and analysis of the adjectives used to describe male characters may not necessarily be enough to analyze the true evolution of how masculinity has been portrayed in fiction.
 
 ### source 7 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Sen, E., &amp; Karagul, S. (2021). A study of secondary school students’ perceptions of fictional characters. International Journal of Educational Methodology, 7(3), 433–446. https://doi.org/10.12973/ijem.7.3.433
+- summary: This article addresses many of the same topics and point as the Kneeskern and Reeder article, but does so through the lense of education. In other words, it takes the same points as Kneeskern and Reeder, and then examines how those problems and perceptions should be addressed in education directly.
+- potential use for project: This article primarly served as supplemenation and further reading to the Kneesern and Reeder article, and added some context to the takeways I gained from that article.
 
 ## environmental scan
 *The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
@@ -160,7 +160,9 @@ How did the description of male characters written by male authors evolved from 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- I will need an external hard drive to save my text files, as well as access to a cloud storage service, such as Google drive.
+- I will need a squarespace site to house and present my findings.
+- I will also need access to ebook marketplaces, which are readily availabel online. 
 
 ---
 # week 7
