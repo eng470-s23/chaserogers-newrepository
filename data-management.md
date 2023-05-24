@@ -4,7 +4,7 @@ Based on the [UO library research guide on data management](https://researchguid
 # expected data and formats
 *Data may originate from observations, experiments, or references; it may be derived from other sources, transformed, or the result of a simulation. Describe your data file formats. Whenever possible, [use non-proprietary formats](https://researchguides.uoregon.edu/data-management/fileformats) or convert your data to open, shareable formats when archiving data. Remember: data also includes your code and workflow documentation!*
 
-- your text here
+- The primary files types I will be working with are **.txt** and **.jpg/.jpeg**. The .txt files will be used for two different types of my data: the transcriptions of passages from the books I will be using as sources, as well as for the coding of my repositories. The .jpg/.jpeg files will be the screenshots of the Voyant dashboard and graphs which will serve as the visualizations of my findings. 
 
 # documentation and metadata
 *Describe how you will [document your data](https://researchguides.uoregon.edu/data-management/readme) as you gather it. Descriptions of your data (or metadata) can help you and others locate, understand, and interpret your data. Describe the applicable standards for metadata content and format that you will follow, including the procedures and tools/software you will use to capture and edit the metadata.*
