@@ -167,7 +167,13 @@ How did the description of male characters written by male authors evolved from 
 ---
 # week 7
 ## notes
-- notes go here
+- Shifted project direction
+ - Will now focus on 4 coming-of-age novels
+  - New research question: **"How do male authors describe and introduce male protagonists in 4 coming-of-age novels?"**
+ - The selection of novels: *Call Me By Your Name* by Andre Acimen, *Norwegian Wood* by Haruki Murakami, *The Sound of Waves* by Yukio Mishima, and *The Sun Also Rises* by Ernest Hemingway
+  - 300 word-max passages where significant male protagonists are introduced will be hand trascribed to fit within fair-use
+  - Transcriptions will then be ran through Voyant for analysis
+   - Analysis of indivual novels as well as corpus-wide analysis
 
 ---
 # week 8
