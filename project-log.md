@@ -1,3 +1,5 @@
+# Project Log
+
 # week 2
 ## notes
 - notes go here
