@@ -1,10 +1,14 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
 # Setup
 title:  "Exploring Fictional Masculinity"             
 tagline:             
-description:         
+description:      
+
+github:
+  zip_url: http://eng470-s23.github.io/download.zip
+
 url:     http://eng470-s23.github.io          
 baseurl:   /chaserogers-repository/            
