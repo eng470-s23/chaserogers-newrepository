@@ -2,11 +2,7 @@ Hello fiction lovers!
 
 This will be deleted
 
-[project log](/project-log.md)
-
-[presentation](/presentation.pptx)
-
-[data management plan](/data-management.md)
+[project log](/project-log.md)  |  [presentation](/presentation.pptx)  |  [data management plan](/data-management.md)
 
 
 If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
