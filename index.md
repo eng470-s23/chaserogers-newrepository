@@ -1,5 +1,14 @@
 Hello fiction lovers!
 
+This will be deleted
+
+[project log](/project-log.md)
+
+[presentation](/presentation.pptx)
+
+[data management plan](/data-management.md)
+
+
 If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
 
 If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.pptx), or maybe you want to get fancy and embed your project here. 
