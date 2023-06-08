@@ -1,15 +1,37 @@
 Hello fiction lovers!
 
-This will be deleted
-
 [project log](/project-log.md)  |  [presentation](/presentation.pptx)  |  [data management plan](/data-management.md)
 
 
-If you're running across this site, it's part of a course at the University of Oregon. [Here's the syllabus](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md).
+Not a bad idea to include a table of contents here with relative links to your section headers.
 
-If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.pptx), or maybe you want to get fancy and embed your project here. 
+## Project Summary/Abstract (1 paragraph) 
 
-![A laptop showing an under-construction page created with a WordPress plugin](https://images.unsplash.com/photo-1590479773265-7464e5d48118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+Be sure to include access info for your project (or embedded content).
 
-Photo by <a href="https://unsplash.com/@webfactoryltd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">WebFactory Ltd</a> on <a href="https://unsplash.com/photos/NoOrDKxUfzo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+## Project Origins and Goals
+
+It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here. 
+
+## Project Activities, Team, and Participants
+
+## Project Outcomes
+
+## Project Continuation and Long-Term Impact
+
+---
+
+# Appendix 1: Bibliography
+
+Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019
+
+Kraicer, E., & Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032
+
+Kneeskern, E. E., & Reeder, P. A. (2022). Examining the impact of fiction literature on children's gender stereotypes. Current Psychology, 41(3), 1472+. https://link-gale-com.libproxy.uoregon.edu/apps/doc/A697815663/AONE?u=euge94201&sid=bookmark-AONE&xid=5c1c027a
+
+Yaşayan, V. (2021). Manifestations of Toxic Masculinity in Cormac McCarthy’s Blood Meridian or the Evening Redness in the West. American Studies in Scandinavia, 53(2), 69–99. https://doi.org/10.22439/asca.v53i2.6392
+
+Williams, A. (2022, July 3). NY_TIMES_FICTION_BEST_SELLERS_1931-2022-wikipedia. Kaggle. Retrieved April 28, 2023, from https://www.kaggle.com/datasets/aaddrick/ny-times-fiction-best-sellers-19312022wikipedia
+
+Sen, E., & Karagul, S. (2021). A study of secondary school students’ perceptions of fictional characters. International Journal of Educational Methodology, 7(3), 433–446. https://doi.org/10.12973/ijem.7.3.433
   
