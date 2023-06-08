@@ -21,7 +21,7 @@ It's very likely that elements of your pitch and/or environmental scan will be r
 
 ---
 
-# Appendix 1: Bibliography
+# Bibliography
 
 Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019
 
