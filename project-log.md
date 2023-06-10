@@ -1,13 +1,6 @@
 # Project Log
 
-# week 2
-## notes
-- notes go here
-
----
 # week 3
-## notes
-- notes go here
 
 ## pitch
 - My research topic is: 
@@ -29,7 +22,6 @@
 - In order to do this project, I need to learn: 
   * TimelineJS, how to incorporate outside materials into GitHub, and higher level data analysis.
 
----
 # week 4 
 ## notes
 - focus on latter timeline (1950s-2000)
@@ -46,10 +38,6 @@
 - All sources found on first search on respective databases
 
 ## bibliography
-*The bibliography should include at least seven (7) sources:*
-- *at least one primary (literary or archival) source or dataset you are studying or examining;* 
-- *at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.)*
-- *the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.*
 
 1. **source #1:** 
     * My primary source will be a dataset which I have compiled and collected from fiction novels between 1950-2020. The data set will be made by running digital transcripts through Voyant tools to analyze the texts and extract the adjectives for data.
@@ -82,8 +70,6 @@
 
 ---
 # week 5
-## notes
-- notes go here
 
 ## research question
 How did the description of male characters written by male authors evolved from 1950-2000? 
@@ -114,8 +100,6 @@ How did the description of male characters written by male authors evolved from 
 
 ---
 # week 6
-## notes
-- notes go here
 
 ## annotated bibliography, continued
 
@@ -176,18 +160,3 @@ How did the description of male characters written by male authors evolved from 
   - 300 word-max passages where significant male protagonists are introduced will be hand trascribed to fit within fair-use
   - Transcriptions will then be ran through Voyant for analysis
    - Analysis of indivual novels as well as corpus-wide analysis
-
----
-# week 8
-## notes
-- notes go here
-
----
-# week 9
-## notes
-- notes go here
-
----
-# week 10
-## notes
-- notes go here
