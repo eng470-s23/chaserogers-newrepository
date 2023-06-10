@@ -23,7 +23,7 @@ In the continuing fight to dismantle and address patriarchal norms, analysis of 
 
 # Project Outcomes
 
-The main outcome of the project was the production of a prototype for where it is possible to take this research in the future. All findings and products born from the project, as well as the project itself, serve as an outline and prototype for a larger project which would include a deeper analysis into texts, as well as a larger corpus spanning from 1925-present. For more information about this, please see the project coninuation section.
+The main outcome of the project was the production of a prototype for where it is possible to take this research in the future. All findings and products born from the project, as well as the project itself, serve as an outline and prototype for a larger project which would include a deeper analysis into texts, as well as a larger corpus spanning from 1925-present. For more information about this, please see the [project coninuation](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-continuation-and-long-term-impact) section.
 
 A static website presenting the findings through written analysis and visualistions from the Voyant dashboard is the primary outcome regarding the presentation of the findings. In addition, a brief presenation slide-show was created as a result of the project.
 
