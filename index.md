@@ -8,4 +8,6 @@ An analysis for each novel, as well as the collection as a whole, can be found o
 
 [About the project](white-paper.md)  |  [Project log](/project-log.md)  |  [Presentation](/presentation.pptx)  |  [Data management plan](/data-management.md)
 
+**More will be added here before final portfolio and project submission.. This is simply the template and placeholder.**
+
 
