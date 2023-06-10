@@ -33,6 +33,14 @@ The outcomes of the project ended differently than the initial project idea and 
 
 # Project Continuation and Long-Term Impact
 
+The current iteration of this project is simply a prototype. The next steps are to take this research more in-depth and to a broader application.
+
+I would like to expand the project to closer match my intitial visions of what it could be. This would be done by collecting a large selection of novels to create a data set which includes full texts, novels spanning multiple genres, and consisting of books from every year beginning in 1925 and ending in the present. The goal of this expansion would be to analyze how masculinity is presented within fiction *as a whole* and gain a better understanding of the state of representing inclusive forms of masculinity in fiction literature. 
+
+The long-term impacts of both this iteration of the project, as well its expansion, is to provide a perspective of critical analysis to the intersection of gender and media studies which hasn't been given enough attention within academia and to assist in dismantling the continuing existence of patriarchal norms within media. 
+
+Additonally, the project serves as a way for fiction readers to analyze how characters from their favorite books are represented with an objective perspective, as we often don't realize all the intricate ways that the patriarchy and toxic masculinity appear in novels while we're reading them. Essentially, it could give readers the ability to approach reading fiction with a more informed and conscious approach.
+
 ---
 
 # Bibliography
