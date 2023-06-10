@@ -1,4 +1,4 @@
-[Project Summary/Abstract](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-summaryabstract)  |  [Project Origins and Goals](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-origins-and-goals)  |  [Project Activites]([https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-activie](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-activities)  |  [Project Outcomes](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-outcomes)  |  
+[Project Summary/Abstract](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-summaryabstract)  |  [Project Origins and Goals](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-origins-and-goals)  |  [Project Activites](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-activities)  |  [Project Outcomes](https://github.com/eng470-s23/chaserogers-repository/blob/main/white-paper.md#project-outcomes)  |  
 
 # Project Summary/Abstract 
 
