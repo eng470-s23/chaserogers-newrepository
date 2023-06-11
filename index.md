@@ -10,7 +10,7 @@ Happy reading!
 
 ### [View the project](analysis.md)
 
-
+---
 
 Furter information about the project can be found at the links below. 
 
