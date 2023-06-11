@@ -41,3 +41,7 @@ The novel explores situations, relationships, and subject matters which directly
 The character whose introduction and description was analyzed here was **Oliver**, given that he is the second primary character following Elio. While the book does challenge heteronormativity, Oliver is still described as having a personality and appearance as presenting in line with traditional masculine stereotypes.
 
 ![A word cloud visual depicting the most common terms in the Call Me by Your Name passage](images/VoyantFindings_CallMeByYourName_Cirrus.jpg)
+
+In the analyzed passage, Oliver is described as being quite a dominating force. The word cloud shows the key terms '**cold**," "**difficult**," and "**hostile**," which are used in the text to describe Oliver's demeanor. 
+
+He's also described as being able to see into other's deeply and essentially see through any facades, a trait which aligns with the idea of these character's having a strong social command. All of these add up to a fairly traditional presentation of masculinity: a tall and large physical appearance, an intimidating/dominating presence, and a stoic emotional presentation.
