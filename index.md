@@ -6,7 +6,7 @@ The project is a case-study which examines the ways which male characters are de
 
 An analysis for each novel, as well as the collection as a whole, can be found on the [analysis](analysis.md) page. Furter information about the project can be found at the links below. Happy reading!
 
-[About the project](white-paper.md)  |  [Project log](/project-log.md)  |  [Presentation](/presentation.pptx)  |  [Data management plan](/data-management.md)  |  [Acknowledgements](acknowledgments.md)
+[About the project](white-paper.md)  |  [Project log](/project-log.md)  |  [Presentation](/presentation.pptx)  |  [Data management plan](/data-management.md)  |  [Acknowledgements](acknowledgements.md)
 
 **More will be added here before final portfolio and project submission.. This is simply the template and placeholder.**
 
