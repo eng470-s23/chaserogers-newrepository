@@ -6,7 +6,7 @@ The project is a case-study which examines the ways which male characters are de
 
 Furter information about the project can be found at the links below. Happy reading!
 
-## [View the project](analysis.md)
+### [View the project](analysis.md)
 
 [About the project](white-paper.md)  |  [Project log](/project-log.md)  |  [Presentation](/presentation.pptx)  |  [Data management plan](/data-management.md)  |  [Acknowledgements](acknowledgements.md)
 
