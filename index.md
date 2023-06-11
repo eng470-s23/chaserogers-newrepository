@@ -12,7 +12,7 @@ Happy reading!
 
 ---
 
-Furter information about the project can be found at the links below. 
+More information about the project can be found at the links below. 
 
 [About the project](white-paper.md)  |  [Project log](/project-log.md)  |  [Presentation](/presentation.pptx)  |  [Data management plan](/data-management.md)  |  [Acknowledgements](acknowledgements.md)
 
