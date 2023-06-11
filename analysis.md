@@ -10,6 +10,6 @@ The analysis from the project is broken down into 5 sections: 1 section for the 
 
 Analysis of the corpus (all 4 novels together) is the true meat of the project. Because of small passage sizes, individual examinations of each novels, while still worthwhile, did not produce the sort of insights which this project focuses on. On the other hand, when all 4 novels are analyzed together, we begin to see a series of commonalities. The primary one being that yes, these 4 books and their passages introducing significant male characters do seem to describe the character as fitting in with traditional, masculine ideals. While this was not a surprise, the way in which these 4 novels did so was.
 
-[Cirrus tool depecting most common words across corpus](https://github.com/eng470-s23/chaserogers-repository/blob/main/images/VoyantFindings_Corpus_Cirrus.png)
+[Cirrus tool depecting most common words across corpus](images/VoyantFindings_Corpus_Cirrus.png)
 
 
