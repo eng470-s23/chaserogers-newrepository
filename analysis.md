@@ -38,4 +38,6 @@ The terms present within the word cloud show the reinforcement of these traits a
 *Call Me by Your Name* presents an interesting situation within the project. 
 The novel explores situations, relationships, and subject matters which directly contradict heteronormative standards of masculinity. Therefore, it is reasonable to hypothesize that the traditional traits of masculinity would either be minimized here or completely absent. However, that was not the case.
 
-The character whose introduction and description was analyzed here was **Oliver**, given that he was
+The character whose introduction and description was analyzed here was **Oliver**, given that he is the second primary character following Elio. While the book does challenge heteronormativity, Oliver is still described as having a personality and appearance as presenting in line with traditional masculine stereotypes.
+
+
