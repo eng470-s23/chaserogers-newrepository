@@ -68,6 +68,13 @@ Kizuki is presented in a less obviously demanding way than Oliver is in *Call Me
 
 In the contexts tool, we see the search term "he" giving contexts in phrases which overwhelmingly focus on his ability to command conversations.
 
-While Kizuki is presented as having a different form of dominance than Oliver, he is still attributed a degree of high confidence and leadership.
+While Kizuki is presented as having a different form of dominance than Oliver, he is still attributed a degree of high confidence and leadership seen throughout the corpus.
 
 ---
+
+# *The Sound of Waves*
+
+For *The Sound of Waves*, the character analyzed was a boy who reoccurs throughout the novel, but is never named. Asside from the narrator, he is the second male character to receive the most amount of description, as the novel primarily focuses on the narrator and a female protagonist.
+
+In the passage of his introduction, he is spotted by the narrator working on a fishing boat with a small crew. Physically, the key descriptors are "**tall**" and "**well-built**," describing a visual of a blue-collar man we've seen many times throughout fiction. He is described as having th physical build of a man many years older than his own 18 year old self, an ideal which is often unattainable to many.
+
