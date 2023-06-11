@@ -1,15 +1,13 @@
-# README for demo-site
+# README
 
-This repository is a demo for ENG 470/570 students to clone in order to create individual project workspaces. It contains templates for all required components of the final portfolio, written in markdown. (Recommended markdown editor: [dillinger.io](https://dillinger.io/)). 
-
-- **[readme.md](readme.md) (this file)**: a template to record project-level metadata, taken from [UO Libraries' research guide to Doing Digital Projects in the Open](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2). To customize it, delete this header section up to the horizontal line (---).
-- **[license.md](license.md)**: the license defining how others can reuse your data and other content in your repository.
-- **[project-log.md](project-log.md)**: a weekly log for tracking your research notes and progress. This is also where your pitch, draft annotated bibliography, and draft environmental scan go. Revised versions of those materials will likely appear in your white paper.
-- **[data-management.md](data-management-plan.md)**: your data management plan, explaining how your project files are stored, named, published, and protected. 
-- **[presentation.pptx](presentation.pptx)**: visual aids for your presentation at our class symposium in week 9. You may choose instead to use PowerPoint, in which case this file will be presentation.ppt or presentation.pptx.
-- **[white-paper.md](white-paper.md)**: final write-up of your project and lessons learned from conceptualizing and prototyping a researched digital humanities project. Your white paper will also contain, embed, or link to the project prototype itself.
-- **[_config.yml](_config.yml)**: the file that provides basic styling info to turn your repo into a static website. 
-- **[index.md](index.md)**: the front page of your website, which can link to or aggregate any other parts of your repo using relative links.  
+- **[readme.md](readme.md)
+- **[license.md](license.md)
+- **[project-log.md](project-log.md)
+- **[data-management.md](data-management-plan.md)
+- **[presentation.pptx](presentation.pptx)
+- **[white-paper.md](white-paper.md)
+- **[_config.yml](_config.yml)
+- **[index.md](index.md)  
 
 ---
 
