@@ -1,8 +1,13 @@
 # Analysis and Findings
 
-The analysis from the project is broken down into 5 sections: 1 section for the analysis of the whole corpus, examing commonalites and trends amongst all 4 novels within a digital text analysis tool called Voyant, and then 1 section dedicated to each novel. 
+The analysis from the project is broken down into 5 sections: 1 section for the analysis of the whole corpus, examaning commonalites and trends amongst all 4 novels within a digital text analysis tool called Voyant, and then 1 section dedicated to each novel. 
 
-**More will be added here before final portfolio and project submission, as this is the primary focus of the site and project. This is simply the placeholder.**
+### Key Terms
+
+- **Voyant**: A digital text analysis tool which was the primary tool used for the project.
+- **Corpus**: A collection of written texts. In this case, the collection of all 4 novel passages.
+- **Cirrus tool**: A tool within Voyant which shows a word cloud created to display frequent words within a text
+- **Context tool**: A tool within Voyant which shows the contexts which a given term appears. Context is givven for text to the left and the right of the given term.
 
 ---
 
