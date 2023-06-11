@@ -19,7 +19,7 @@ Analysis of the corpus (all 4 novels together) is the true meat of the project. 
 
 When analyzing the descriptors of the 4 characters, we notice something quite interesting. Each novel has a tendency to assign a degree of expertise and command in different areas to each of the characters. Common descriptors for the caracters were words such as "exceptionally," "talented," "interesting," and "exceedingly." 
 
-![Cirrus tool depecting most common words across corpus](images/VoyantFindings_Corpus_Cirrus.png)
+![A word cloud visual depecting most common words across corpus](images/VoyantFindings_Corpus_Cirrus.png)
 
 In the case of **Robert Cohn** in *The Sun also Rises,* his prowess and success as a boxing champion is highlighted in his introduction, and area which he was the top of his class in. In **Oliver's** case in *Call Me by Your Name,* his ability to read and charm people is his area of prowess. 
 But no matter what area each character was described as being exceedingly well in, one aspect was described as an area of excellence in all the characters: **the ability to command attention and lead social interactions.** This is most evident in **Kizuki's** case in *Norwegian Wood,* where he is described as having the qualities of a "TV host."
@@ -78,3 +78,8 @@ For *The Sound of Waves*, the character analyzed was a boy who reoccurs througho
 
 In the passage of his introduction, he is spotted by the narrator working on a fishing boat with a small crew. Physically, the key descriptors are "**tall**" and "**well-built**," describing a visual of a blue-collar man we've seen many times throughout fiction. He is described as having th physical build of a man many years older than his own 18 year old self, an ideal which is often unattainable to many.
 
+![A word cloud visual depecting most common words in The Sound of Waves passage](images/VoyantFindings_SoundOfWaves_Cirrus.png)
+
+The description goes further into this hyper-masculine character by describing his face as "**burned**" and "**cracked**" despite looking youthful at the same time. His social character is attributed a booming, commanding voice as well, yet again aiding in the trend of **leadership** and **command** across the study.
+
+---
