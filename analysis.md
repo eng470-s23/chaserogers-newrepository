@@ -40,4 +40,4 @@ The novel explores situations, relationships, and subject matters which directly
 
 The character whose introduction and description was analyzed here was **Oliver**, given that he is the second primary character following Elio. While the book does challenge heteronormativity, Oliver is still described as having a personality and appearance as presenting in line with traditional masculine stereotypes.
 
-
+![A word cloud visual depicting the most common terms in the Call Me by Your Name passage](images/VoyantFindings_CallMeByYourName_Cirrus.jpg)
