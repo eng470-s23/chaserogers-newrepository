@@ -83,3 +83,11 @@ In the passage of his introduction, he is spotted by the narrator working on a f
 The description goes further into this hyper-masculine character by describing his face as "**burned**" and "**cracked**" despite looking youthful at the same time. His social character is attributed a booming, commanding voice as well, yet again aiding in the trend of **leadership** and **command** across the study.
 
 ---
+
+# *The Sun Also Rises*
+
+In *The Sun Also Rises*, the transcribed passage is the introduction of the character **Robert Cohn**, the narrator's close friend in the novel and the second most prominent male character. This introduction is, by far, the most blatant expression of expertise and prowess amongst the 4 novels. Given that it is Hemingway, it is of no surprise that Cohn is described as having highly traditional, masculine traits. 
+
+The key descriptors here are "**boxing**," "**champion**," and surprisingly, "**nice**."
+
+
