@@ -6,7 +6,7 @@ The analysis from the project is broken down into 5 sections: 1 section for the 
 
 ---
 
-## Corpus Analysis
+# Corpus Analysis
 
 Analysis of the corpus (all 4 novels together) is the true meat of the project. Because of small passage sizes, individual examinations of each novels, while still worthwhile, did not produce the sort of insights which this project focuses on. On the other hand, when all 4 novels are analyzed together, we begin to see a series of commonalities. The primary one being that yes, these 4 books and their passages introducing significant male characters do seem to describe the character as fitting in with traditional, masculine ideals. While this was not a surprise, the way in which these 4 novels did so was.
 
@@ -20,4 +20,14 @@ In the case of **Robert Cohn** in *The Sun also Rises,* his prowess and success 
 But no matter what area each character was described as being exceedingly well in, one aspect was described as an area of excellence in all the characters: **the ability to command attention and lead social interactions.** This is most evident in **Kizuki's** case in *Norwegian Wood,* where he is described as having the qualities of a "TV host."
 
 ![Contexts tool depicting phrases to the left and right of key term "he"](images/VoyantFindings_Corpus_Contexts.png)
+
+### Traditional Ideals of Masculinity
+
+The commonalities don't stop and the idea of expertise. In addition, we see each novel describe the analyzed character in a way that fits the ideals of a traditional and toxic view of masculinity. 
+
+When describing their physical appearance, they are often given characteristics such as being tall, built physically strong, and having stoic physical expressions. But we seem heteronormative and traditional traits within the descriptions of their mental and emotional character as well. Looking at the word cloud in the Cirrus tool, we see identifiers such as being emotionally cold, analytical, and emotionally reserved. These all fit the idea than men, or masculinity, should be defined by a degree of detachement from emotions, and approaching situations and life with a more "logical" perspective. The terms present within the word cloud show the reinforcement of these traits across the entire corpus.
+
+---
+
+*Call Me by Your Name*
 
