@@ -14,16 +14,14 @@
 ## Project-level Basic Information - Introduction 
 
 1. Project Name: Exploring Masculinity: Representations of Male Character in Coming-of-Age Novels
-2. Dataset file name(s) and extension(s)
-3. Project description/abstract/keywords
-4. Authors and collaborators, including ORCID IDs and contact information
-5. Dates of Data Collection (YYYYMMDD format)
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+2. Project description/abstract/keywords
+3. Author: Chase Rogers
+4. Dates of Data Collection (YYYYMMDD format)
+5. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
 
 ## Data Access & Sharing
-1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
-3. Was data derived from another sourse, if so where?
-4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
+
+**[License](license.md)**
 
 ## Methodological and Data-specific Information
 1. Description of methods for data collection and processing
