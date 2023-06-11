@@ -7,7 +7,7 @@ The analysis from the project is broken down into 5 sections: 1 section for the 
 - **Voyant**: A digital text analysis tool which was the primary tool used for the project.
 - **Corpus**: A collection of written texts. In this case, the collection of all 4 novel passages.
 - **Cirrus tool**: A tool within Voyant which shows a word cloud created to display frequent words within a text
-- **Context tool**: A tool within Voyant which shows the contexts which a given term appears. Context is givven for text to the left and the right of the given term.
+- **Context tool**: A tool within Voyant which shows the contexts in which a given term appears. Context is givven for text to the left and the right of the given term.
 
 ---
 
