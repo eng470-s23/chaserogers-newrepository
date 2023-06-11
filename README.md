@@ -1,13 +1,13 @@
 # README
 
-- **[readme.md](readme.md)
-- **[license.md](license.md)
-- **[project-log.md](project-log.md)
-- **[data-management.md](data-management-plan.md)
-- **[presentation.pptx](presentation.pptx)
-- **[white-paper.md](white-paper.md)
-- **[_config.yml](_config.yml)
-- **[index.md](index.md)  
+- **[readme.md](readme.md)**
+- **[license.md](license.md)**
+- **[project-log.md](project-log.md)**
+- **[data-management.md](data-management-plan.md)**
+- **[presentation.pptx](presentation.pptx)**
+- **[white-paper.md](white-paper.md)**
+- **[_config.yml](_config.yml)**
+- **[index.md](index.md)**
 
 ---
 
