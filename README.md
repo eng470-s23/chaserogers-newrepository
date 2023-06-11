@@ -15,7 +15,7 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 
 ## Project-level Basic Information - Introduction 
 
-1. Project Name
+1. Project Name: Exploring Masculinity: Representations of Male Character in Coming-of-Age Novels
 2. Dataset file name(s) and extension(s)
 3. Project description/abstract/keywords
 4. Authors and collaborators, including ORCID IDs and contact information
