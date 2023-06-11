@@ -50,3 +50,12 @@ The character whose introduction and description was analyzed here was **Oliver*
 In the analyzed passage, Oliver is described as being quite a dominating force. The word cloud shows the key terms '**cold**," "**difficult**," and "**hostile**," which are used in the text to describe Oliver's demeanor. 
 
 He's also described as being able to see into other's deeply and essentially see through any facades, a trait which aligns with the idea of these character's having a strong social command. All of these add up to a fairly traditional presentation of masculinity: a tall and large physical appearance, an intimidating/dominating presence, and a stoic emotional presentation.
+
+Oliver is an interesting case, as Elio often describes his character and demeanor from an aspirational perspective.
+
+---
+
+# *Norwegian Wood*
+
+In *Norwegian Wood*, the character analyzed was **Kizuki**, the main character's best friend who died prior to the start of the novel.
+Kizuki's physical characteristics are never described, however, his introductory passage presents his personality and social skills thoroughly.
