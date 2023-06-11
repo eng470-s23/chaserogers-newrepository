@@ -25,7 +25,11 @@ But no matter what area each character was described as being exceedingly well i
 
 The commonalities don't stop at the idea of expertise. In addition, we see each novel describe the analyzed character in a way that fits the ideals of a traditional and toxic view of masculinity. 
 
-When describing their physical appearance, they are often given characteristics such as being tall, built physically strong, and having stoic physical expressions. But we seem heteronormative and traditional traits within the descriptions of their mental and emotional character as well. Looking at the word cloud in the Cirrus tool, we see identifiers such as being emotionally cold, analytical, and emotionally reserved. These all fit the idea than men, or masculinity, should be defined by a degree of detachement from emotions, and approaching situations and life with a more "logical" perspective. The terms present within the word cloud show the reinforcement of these traits across the entire corpus.
+When describing their physical appearance, they are often given characteristics such as being tall, built physically strong, and having stoic physical expressions. But we seem heteronormative and traditional traits within the descriptions of their mental and emotional character as well. Looking at the word cloud in the Cirrus tool, we see identifiers such as being emotionally cold, analytical, and emotionally reserved. These all fit the idea than men, or masculinity, should be defined by a degree of detachement from emotions, and approaching situations and life with a more "logical" perspective. 
+
+We see this present in terms such as "**hardened**," "**unapproachable**," "**sagacious**," and "**unfazed**."
+
+The terms present within the word cloud show the reinforcement of these traits across the entire corpus.
 
 ---
 
