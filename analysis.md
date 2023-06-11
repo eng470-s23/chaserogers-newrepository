@@ -24,7 +24,7 @@ When analyzing the descriptors of the 4 characters, we notice something quite in
 In the case of **Robert Cohn** in *The Sun also Rises,* his prowess and success as a boxing champion is highlighted in his introduction, and area which he was the top of his class in. In **Oliver's** case in *Call Me by Your Name,* his ability to read and charm people is his area of prowess. 
 But no matter what area each character was described as being exceedingly well in, one aspect was described as an area of excellence in all the characters: **the ability to command attention and lead social interactions.** This is most evident in **Kizuki's** case in *Norwegian Wood,* where he is described as having the qualities of a "TV host."
 
-![Contexts tool depicting phrases to the left and right of key term "he"](images/VoyantFindings_Corpus_Contexts.png)
+![Contexts tool depicting phrases to the left and right of key term "he" in the corpus](images/VoyantFindings_Corpus_Contexts.png)
 
 ### Traditional Ideals of Masculinity
 
@@ -62,4 +62,12 @@ Kizuki's physical characteristics are never described, however, his introductory
 
 ![A word cloud visual depicting the most common terms in the Norwegian Wood passage](images/VoyantFindings_NorwegianWood_Cirrus.png)
 
-Kizuki is presented in a less obviously demanding way than Oliver is in *Call Me by Your Name*. Instead, he is described as having a warmer personality, but significant focus is still put on his ability to lead a conversation and social setting. Here, the key descriptors are ones such as "**capable**," "**interesting**," and "**exceptionally**." The term "**arrogant**" is also of note, however, when read in context, Kizuki is not described as *being* arrogant, but rather as *appearing* that way to those who do not know him well.
+Kizuki is presented in a less obviously demanding way than Oliver is in *Call Me by Your Name*. Instead, he is described as having a warmer personality. Descriptors such as "**considerate**" are key here. But significant focus is still put on his ability to lead a conversation and social setting. Here, the key descriptors are ones such as "**capable**," "**interesting**," and "**exceptionally**." The term "**arrogant**" is also of note, however, when read in context, Kizuki is not described as *being* arrogant, but rather as *appearing* that way to those who do not know him well.
+
+![Contexts tool depicting phrases to the left and right of key term "he" in the Norwegian Wood passage](images/VoyantFindings_NorwegianWood_Contexts.png)
+
+In the contexts tool, we see the search term "he" giving contexts in phrases which overwhelmingly focus on his ability to command conversations.
+
+While Kizuki is presented as having a different form of dominance than Oliver, he is still attributed a degree of high confidence and leadership.
+
+---
