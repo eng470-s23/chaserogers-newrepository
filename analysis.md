@@ -90,4 +90,10 @@ In *The Sun Also Rises*, the transcribed passage is the introduction of the char
 
 The key descriptors here are "**boxing**," "**champion**," and surprisingly, "**nice**."
 
+![A word cloud visual depecting most common words in The Sun Also Rises passage](images/VoyantFindings_SunAlsoRises_Cirrus.png)
 
+When we look at the contexts, we see the focus being on Cohn's boxing career. The passages describe how, despite being described as "**nice**" he knew that he could physically dominant anyone he came across. Physical strength and characters of brut are in no shortage in Hemingway's literature, but the direct contradiction of Cohn being both **nice** and the highlighting of his **physical capabilities** is of note here. Given this is the oldest novel in the corpus, it makes sense that the ideals of toxic masculinity would be far more apparent here.
+
+![Contexts tool depicting phrases to the left and right of key term "he" in The Sun Also Rises passage](images/VoyantFindings_SunAlsoRises_Contexts.png)
+
+---
