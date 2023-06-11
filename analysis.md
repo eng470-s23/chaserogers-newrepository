@@ -59,3 +59,7 @@ Oliver is an interesting case, as Elio often describes his character and demeano
 
 In *Norwegian Wood*, the character analyzed was **Kizuki**, the main character's best friend who died prior to the start of the novel.
 Kizuki's physical characteristics are never described, however, his introductory passage presents his personality and social skills thoroughly.
+
+![A word cloud visual depicting the most common terms in the Norwegian Wood passage](images/VoyantFindings_NorwegianWood_Cirrus.png)
+
+Kizuki is presented in a less obviously demanding way than Oliver is in *Call Me by Your Name*. Instead, he is described as having a warmer personality, but significant focus is still put on his ability to lead a conversation and social setting. Here, the key descriptors are ones such as "**capable**," "**interesting**," and "**exceptionally**." The term "**arrogant**" is also of note, however, when read in context, Kizuki is not described as *being* arrogant, but rather as *appearing* that way to those who do not know him well.
