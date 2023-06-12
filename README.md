@@ -29,7 +29,7 @@ Fictional characters have a strong influence on our development of identity and 
 
 ## Methodological and Data-specific Information
 
-- Description of methods for data collection and processing:
+[Data management plan](data-management.md)
 
 ## Credits and Acknowledgments
 
