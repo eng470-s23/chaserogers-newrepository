@@ -13,30 +13,23 @@
 
 ## Project-level Basic Information - Introduction 
 
-1. Project Name: Exploring Masculinity: Representations of Male Character in Coming-of-Age Novels
-2. Project abstract:
+- Project Name: Exploring Masculinity: Representations of Male Character in Coming-of-Age Novels
+- Project abstract:
     
     Fictional characters have a strong influence on our development of identity and how we perceive people. Masculinity has historically been represented in a way that aligns with toxic stereotypes, and have reinforced the position of the patriarchy across different mediums, causing consumers to continually be exposed to these stereotypical representations. The coming-of-age genre within fiction literature lacks sufficient research into the presentations of male identities and forms of masculinity. This project examines 4 popular coming-of-age novels to analyze and find commonalities in key males characters and their characteristics. Passages where a primary male protaganist was introduced for the first time were transcribed to be analyzed Additionally, all 4 novels are ones written by a male author, to add a tertiary analysis of how male authors themselves belief how masculinity should be presented. Through text analysis using Voyant, I found that across the 4 novels, the authors tended to attribute traditional ideals of masculinity to the characters, such as strength and high social standings.
 
 **As only 4 novels were analyzed, this project acts a kind of case study into specific novels within the genre, versus and analysis of the genre as a whole.**
 
-3. Author: Chase Rogers
-4. Dates of Data Collection (YYYYMMDD format)
-5. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+- Author: Chase Rogers
+4. Dates of Data Collection: 2023/04 - 2023/06
 
 ## Data Access & Sharing
 
 **[License](license.md)**
 
 ## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+
+- Description of methods for data collection and processing:
 
 ## Credits and Acknowledgments
 
