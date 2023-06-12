@@ -45,6 +45,8 @@ Additonally, the project serves as a way for fiction readers to analyze how char
 
 # Bibliography
 
+Aciman, A. (2017). Call Me by Your Name. Picador/Farrar, Straus and Giroux. 
+
 Underwood, T., Bamman, D., & Lee, S. (2018). The transformation of gender in English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.019
 
 Kraicer, E., & Piper, A. (2019). Social characters: The hierarchy of gender in contemporary English-language fiction. Journal of Cultural Analytics, 3(2). https://doi.org/10.22148/16.032
