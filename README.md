@@ -21,7 +21,7 @@ Fictional characters have a strong influence on our development of identity and 
 **As only 4 novels were analyzed, this project acts a kind of case study into specific novels within the genre, versus and analysis of the genre as a whole.**
 
 - Author: Chase Rogers
-4. Dates of Data Collection: 2023/04 - 2023/06
+- Dates of Data Collection: 2023/04 - 2023/06
 
 ## Data Access & Sharing
 
